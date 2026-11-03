@@ -7,7 +7,7 @@
 [![Evidence First](https://img.shields.io/badge/Evaluation-Evidence--First-blue)](README.md)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-green.svg)](LICENSE)
 
-> **Built for the Fireworks Deploy Buildathon (November 2, 2026 / San Francisco)**  
+> **Built for the Fireworks Deploy Buildathon (San Francisco)**  
 > *Built together with Fireworks AI, Microsoft, and NVIDIA.*  
 > *"Evidence comes first: Demonstrating that specialized open models and compound harnesses outperform frontier baselines on mission-critical production tasks."*
 
